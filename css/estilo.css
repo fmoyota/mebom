@@ -26,11 +26,11 @@ body{
     background-position: center;
 }
 #home{
-   /* background-image: url("../images/Slide.png");
+   background-image: url("../images/SlideMenu.png");
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: top;*/
-    padding-top: 12%;
+    background-position: center;
+    padding: 30% 15%;
 }
 #home .botones{
     margin-top:20px;
