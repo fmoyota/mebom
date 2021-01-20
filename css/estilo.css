@@ -4,7 +4,7 @@ body{
 	color: #0f0f0f;
 	background: #ffffff;
 	padding: 0;
-    background-image: url("../images/Fondo.jpg");
+    /*background-image: url("../images/Fondo.jpg");*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom right;
@@ -324,7 +324,20 @@ img.home{
     top:72%;
     right:28%;
 }
+.logo-link{
+	width:100%;
+	position: absolute;
+	top:12%;
+	height: 22vh;
 
+}
+.logos-link{
+	width:100%;
+	position: absolute;
+	top:25%;
+	height: 22vh;
+
+}
 /*
 @media (max-width: 2600px) and (max-height:1500px){
 	.wrapper{
